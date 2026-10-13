@@ -1,4 +1,4 @@
-<h1 align="center">Awliver</h1>
+<h1 align="center">Awliver <img src="https://raw.githubusercontent.com/Awliver/Awliver/main/assets/confetti.gif" width="40" height="40" alt="🎉"></h1>
 
 <p align="center">机器学习 · 系统学习 · 实用工具</p>
 
